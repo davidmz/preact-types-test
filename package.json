@@ -1,0 +1,12 @@
+{
+  "name": "preact-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "preact": "^10.13.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
